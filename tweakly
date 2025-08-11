@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8" />
+    <title>صفحة التطبيق - Tweakly</title>
+</head>
+<body style="font-family: Arial, sans-serif; direction: rtl; padding: 20px;">
+    <h1>تطبيق Tweakly</h1>
+    <p>هذه صفحة تعريف بسيطة للتطبيق الخاص بي. التطبيق يستخدم بياناتك بطريقة آمنة ويحترم خصوصيتك.</p>
+
+    <h2>سياسة الخصوصية</h2>
+    <p>نحن نحترم خصوصيتك ولا نشارك بياناتك مع أي جهة خارجية. بيانات المستخدم تُستخدم فقط لتشغيل التطبيق وتقديم الخدمة.</p>
+
+    <h2>معلومات التواصل</h2>
+    <p>البريد الإلكتروني: mohamedelsayed131997@gmail.com</p>
+</body>
+</html>
